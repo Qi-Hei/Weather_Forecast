@@ -1,0 +1,12 @@
+<litepal>
+         <!--数据库名称和版本-->
+         <dbname value="Mask_weather"/>
+         <version value="1"/>
+         <!--将三个实体类添加到映射的列表中-->
+         <list>
+             <mapping class="com.example.maskweather.db.City"/>
+             <mapping class="com.example.maskweather.db.County"/>
+             <mapping class="com.example.maskweather.db.Province"/>
+         </list>
+
+     </litepal>

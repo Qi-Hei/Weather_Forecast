@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/yesterday"
+        android:orderInCategory="100"
+        android:title="@string/yesterday"/>
+    <item
+        android:id="@+id/today"
+        android:orderInCategory="100"
+        android:title="@string/today"/>
+    <item
+        android:id="@+id/forecast1"
+        android:orderInCategory="100"
+        android:title="@string/forecast1"/>
+    <item
+        android:id="@+id/forecast2"
+        android:orderInCategory="100"
+        android:title="@string/forecast2"/>
+    <item
+        android:id="@+id/forecast3"
+        android:orderInCategory="100"
+        android:title="@string/forecast3"/>
+    <item
+        android:id="@+id/forecast4"
+        android:orderInCategory="100"
+        android:title="@string/forecast4"/>
+    <item
+        android:id="@+id/concern"
+        android:orderInCategory="100"
+        android:title="@string/concern"/>
+    <item
+        android:id="@+id/cancel_concern"
+        android:orderInCategory="100"
+        android:title="@string/cancel_concern"/>
+
+
+
+
+
+</menu>
